@@ -1,0 +1,19 @@
+Random Die
+    New random (1-6) +1
+
+Board
+    -10 to 10.
+        1-10 = player side
+        -9 to 10 = enemy side
+
+Player moves the amount
+
+Player options
+    Forward
+    Retreat
+        if player on own side, gain 250 ammo per die roll
+        hasBomb = false (on own side) gain a new one.
+
+    Attack (100 times, the number on die)
+        If player 0 fields away from enemy, kill 6 troops
+        If player 1 field away from enemy, kill 5 troops etc.

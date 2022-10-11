@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Datatyper og variabler 1-34-05/Datatyper og variabler 1-34-05.iml" filepath="$PROJECT_DIR$/Datatyper og variabler 1-34-05/Datatyper og variabler 1-34-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InOut 34-4-2/InOut 34-4-2.iml" filepath="$PROJECT_DIR$/InOut 34-4-2/InOut 34-4-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matematiske operatorer og if-statements 1-35-1/Matematiske operatorer og if-statements 1-35-1.iml" filepath="$PROJECT_DIR$/Matematiske operatorer og if-statements 1-35-1/Matematiske operatorer og if-statements 1-35-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Semester 1.iml" filepath="$PROJECT_DIR$/.idea/Semester 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringChars 34-5-2/StringChars 34-5-2.iml" filepath="$PROJECT_DIR$/StringChars 34-5-2/StringChars 34-5-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThinkJava kap 5 35-1-1/ThinkJava kap 5 35-1-1.iml" filepath="$PROJECT_DIR$/ThinkJava kap 5 35-1-1/ThinkJava kap 5 35-1-1.iml" />
+    </modules>
+  </component>
+</project>
